@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "inquirer": "^9.3.4"
+  },
+  "name": "hamza-cli-number-guessing-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "publishconfig" :{
+  "access" : "public"
+  },
+  "bin": "index.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HASSAN MASOOD",
+  "license": "MIT",
+  "description": "THIS IS CLI BASED GAME MADE BY HASSAN MASOOD"
+}
